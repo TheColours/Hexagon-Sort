@@ -1,6 +1,6 @@
 {
-    "name": "Hexagon",
-    "short_name": "Hexagon",
+    "name": "Hexagon Sort",
+    "short_name": "Hexagon Sort",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
